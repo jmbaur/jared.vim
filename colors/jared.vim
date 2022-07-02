@@ -26,7 +26,7 @@ highlight DiffText          term=reverse ctermbg=58
 highlight LineNr            ctermfg=242
 highlight NonText           ctermfg=242
 highlight Pmenu             ctermfg=248 ctermbg=235
-highlight PmenuSel          ctermfg=15 ctermbg=0
+highlight PmenuSel          ctermfg=0 ctermbg=15
 highlight ShowMarksHL       cterm=bold ctermfg=14 ctermbg=81
 highlight SignColumn        ctermbg=none
 highlight SpellBad          cterm=underline ctermfg=1 ctermbg=none
